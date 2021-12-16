@@ -16,6 +16,7 @@
 		AC1E79582768D3D700512627 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC1E79562768D3D700512627 /* LaunchScreen.storyboard */; };
 		AC1E79632768D3D700512627 /* MemeMakerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC1E79622768D3D700512627 /* MemeMakerTests.swift */; };
 		AC1E796E2768D3D700512627 /* MemeMakerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC1E796D2768D3D700512627 /* MemeMakerUITests.swift */; };
+		AC1E797C276969A600512627 /* CaptionOption.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC1E797B276969A600512627 /* CaptionOption.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		AC1E79692768D3D700512627 /* MemeMakerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MemeMakerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AC1E796D2768D3D700512627 /* MemeMakerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemeMakerUITests.swift; sourceTree = "<group>"; };
 		AC1E796F2768D3D700512627 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AC1E797B276969A600512627 /* CaptionOption.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptionOption.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				AC1E794A2768D3D500512627 /* SceneDelegate.swift */,
 				AC1E794C2768D3D500512627 /* ViewController.swift */,
 				AC1E794E2768D3D500512627 /* Main.storyboard */,
+				AC1E797B276969A600512627 /* CaptionOption.swift */,
 				AC1E79542768D3D700512627 /* Assets.xcassets */,
 				AC1E79562768D3D700512627 /* LaunchScreen.storyboard */,
 				AC1E79592768D3D700512627 /* Info.plist */,
@@ -264,6 +267,7 @@
 				AC1E794D2768D3D500512627 /* ViewController.swift in Sources */,
 				AC1E79492768D3D500512627 /* AppDelegate.swift in Sources */,
 				AC1E79532768D3D500512627 /* MemeMaker.xcdatamodeld in Sources */,
+				AC1E797C276969A600512627 /* CaptionOption.swift in Sources */,
 				AC1E794B2768D3D500512627 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
